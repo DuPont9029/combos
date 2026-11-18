@@ -1,0 +1,901 @@
+{
+  "v": 3,
+  "name": "Sharvara + trap into Shma (Agnumday) (partial)",
+  "first": true,
+  "hand": [
+    41165831,
+    53417695
+  ],
+  "steps": [
+    {
+      "kind": "set",
+      "code": 53417695,
+      "details": [
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "s",
+              "seq": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "desc": "43165502406656",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            53417695
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        },
+        {
+          "t": "yesno",
+          "yes": true,
+          "code": 53417695
+        },
+        {
+          "t": "cards",
+          "codes": [
+            88554436
+          ],
+          "deck": [
+            88554436
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 1
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 24269961,
+      "way": 1,
+      "details": [
+        {
+          "t": "pick",
+          "code": 41165831
+        },
+        {
+          "t": "pick",
+          "code": 88554436
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 24269961,
+      "desc": "25448898625536"
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "desc": "43165502406657",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            93898740
+          ],
+          "deck": [
+            93898740
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "s",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "cards",
+          "codes": [
+            31531914
+          ],
+          "deck": [
+            31531914
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "summon",
+      "code": 31531914,
+      "details": [
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "yesno",
+          "yes": true,
+          "code": 31531914
+        },
+        {
+          "t": "cards",
+          "codes": [
+            26236560
+          ],
+          "deck": [
+            26236560
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 1
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        },
+        {
+          "t": "cards",
+          "codes": [
+            26236560
+          ]
+        },
+        {
+          "t": "yesno",
+          "yes": true,
+          "code": 26236560
+        },
+        {
+          "t": "cards",
+          "codes": [
+            53624265
+          ],
+          "deck": [
+            53624265
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 1
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 53624265,
+      "desc": "56229117296640",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            31531914
+          ]
+        },
+        {
+          "t": "yesno",
+          "yes": true,
+          "code": 31531914
+        },
+        {
+          "t": "cards",
+          "codes": [
+            95136979
+          ],
+          "deck": [
+            95136979
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 21419436,
+      "details": [
+        {
+          "t": "pick",
+          "code": 95136979
+        },
+        {
+          "t": "pick",
+          "code": 24269961
+        },
+        {
+          "t": "pick",
+          "code": 0
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "desc": "92856056283137",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            93898740
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 93898740,
+      "desc": "98459965194241"
+    },
+    {
+      "kind": "activate",
+      "code": 95136979,
+      "desc": "99758352891905",
+      "details": [
+        {
+          "t": "option",
+          "desc": "573"
+        },
+        {
+          "t": "cards",
+          "codes": [
+            31588572
+          ],
+          "deck": [
+            31588572
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 2
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 67680512,
+      "details": [
+        {
+          "t": "pick",
+          "code": 88554436
+        },
+        {
+          "t": "pick",
+          "code": 21419436
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 31588572,
+      "desc": "33123018473472",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            53417695
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "s",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "cards",
+          "codes": [
+            67680512
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 67680512,
+      "desc": "70968160550912",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            26236560
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 24269961,
+      "desc": "25448898625537",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            21419436
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "yesno",
+          "yes": true
+        },
+        {
+          "t": "cards",
+          "codes": [
+            53624265
+          ]
+        },
+        {
+          "t": "yesno",
+          "yes": true,
+          "code": 53624265
+        },
+        {
+          "t": "cards",
+          "codes": [
+            31531914
+          ],
+          "deck": [
+            31531914
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 1
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "desc": "27511027138560",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            31588572
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 2
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        },
+        {
+          "t": "yesno",
+          "yes": true,
+          "code": 31588572
+        },
+        {
+          "t": "cards",
+          "codes": [
+            31531914
+          ],
+          "deck": [
+            31531914
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 3
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 94014327,
+      "details": [
+        {
+          "t": "pick",
+          "code": 21419436
+        },
+        {
+          "t": "pick",
+          "code": 26236560
+        },
+        {
+          "t": "pick",
+          "code": 0
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 46772449,
+      "details": [
+        {
+          "t": "pick",
+          "code": 31531914
+        },
+        {
+          "t": "pick",
+          "code": 31531914
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 2463794,
+      "details": [
+        {
+          "t": "pick",
+          "code": 46772449
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 2463794,
+      "desc": "2583475257344",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            60764609
+          ],
+          "deck": [
+            60764609
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 2463794,
+      "desc": "2583475257345",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            60764609
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "s",
+              "seq": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 49867899,
+      "details": [
+        {
+          "t": "pick",
+          "code": 60764609
+        },
+        {
+          "t": "pick",
+          "code": 94014327
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 49867899,
+      "desc": "52290282061824",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            82135803
+          ]
+        },
+        {
+          "t": "pick",
+          "code": 2463794
+        },
+        {
+          "t": "pick",
+          "code": 60764609
+        },
+        {
+          "t": "pick",
+          "code": 46772449
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        }
+      ]
+    },
+    {
+      "kind": "spsummon",
+      "code": 32991300,
+      "details": [
+        {
+          "t": "pick",
+          "code": 82135803
+        },
+        {
+          "t": "pick",
+          "code": 49867899
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 5
+            }
+          ]
+        },
+        {
+          "t": "yesno",
+          "yes": false,
+          "code": 82135803
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 32991300,
+      "desc": "34593885388800",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            82135803
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "m",
+              "seq": 0
+            }
+          ]
+        },
+        {
+          "t": "pos",
+          "pos": 1
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "s",
+              "seq": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "activate",
+      "code": 49867899,
+      "desc": "52290282061825",
+      "details": [
+        {
+          "t": "cards",
+          "codes": [
+            82135803
+          ]
+        },
+        {
+          "t": "zone",
+          "places": [
+            {
+              "mine": true,
+              "loc": "s",
+              "seq": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "endphase",
+      "code": 0
+    }
+  ],
+  "interrupts": [],
+  "tags": [],
+  "notes": "PARTIAL: the engine could only play the line up to step 33; \"activate Unchained Enma Lord Yama\" was not possible there.\n\nStarting with Sharvara limits you since it's needed later to pop from hand. If Desirae is cleared, Lacrima in GY can bring it back.",
+  "cards": {
+    "main": [
+      31531914,
+      31531914,
+      31531914,
+      41165831,
+      41165831,
+      41165831,
+      26236560,
+      26236560,
+      26236560,
+      53624265,
+      31588572,
+      95136979,
+      88554436,
+      27412542,
+      27412542,
+      27412542,
+      67803035,
+      67803035,
+      67803035,
+      54807656,
+      53417695,
+      80801743,
+      93898740,
+      35269904,
+      35269904,
+      35269904,
+      60764609,
+      35552985,
+      14558127,
+      14558127,
+      14558127,
+      10045474,
+      10045474,
+      10045474,
+      53417695,
+      53417695
+    ],
+    "extra": [
+      24269961,
+      24269961,
+      67680512,
+      93084621,
+      21419436,
+      94014327,
+      29479265,
+      29301450,
+      2772337,
+      46772449,
+      2463794,
+      49867899,
+      82135803,
+      32991300,
+      93860227
+    ],
+    "side": []
+  },
+  "difficulty": "Expert",
+  "format": "TCG",
+  "archetypes": [
+    "Unchained",
+    "Fiendsmith"
+  ],
+  "endBoard": [
+    82135803,
+    53417695,
+    32991300,
+    49867899
+  ],
+  "endHand": 2
+}
