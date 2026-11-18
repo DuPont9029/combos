@@ -6,7 +6,7 @@ video: "https://www.youtube.com/watch?v=SXYGZkozoMU"
 video_title: "3 MUST KNOW SNAKE EYES COMBOS! Snake Eyes Guide!"
 channel: "Moha - Master Duel"
 duration: 11
-transcribed: 2026-11-18T02:21
+transcribed: 2026-11-18T02:23
 model: "S1-Voice (Cloud) + Sonnet 5.5"
 tags:
   - yugioh

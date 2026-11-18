@@ -1,0 +1,167 @@
+{
+  "v": 3,
+  "name": "Snake-Eye Ash best 1-card combo",
+  "first": true,
+  "hand": [
+    9674034
+  ],
+  "steps": [
+    {
+      "kind": "summon",
+      "code": 9674034,
+      "note": "Normal Summon"
+    },
+    {
+      "kind": "activate",
+      "code": 9674034,
+      "note": "Search Snake-Eyes Poplar"
+    },
+    {
+      "kind": "activate",
+      "code": 90241276,
+      "note": "Special Summon itself"
+    },
+    {
+      "kind": "activate",
+      "code": 90241276,
+      "note": "Search Original Sinful Spoils - Snake-Eye"
+    },
+    {
+      "kind": "spsummon",
+      "code": 41999284,
+      "note": "Using Poplar"
+    },
+    {
+      "kind": "activate",
+      "code": 90241276,
+      "note": "Place itself in S/T"
+    },
+    {
+      "kind": "activate",
+      "code": 89023486,
+      "note": "Send Poplar, Special Summon Jet Synchron"
+    },
+    {
+      "kind": "activate",
+      "code": 9674034,
+      "note": "Send itself + Linkuriboh, Special Summon Snake-Eye Oak"
+    },
+    {
+      "kind": "activate",
+      "code": 45663742,
+      "note": "Special Summon Snake-Eye Ash"
+    },
+    {
+      "kind": "activate",
+      "code": 45663742,
+      "note": "Send itself + Ash, Special Summon Snake-Eyes Flamberge Dragon"
+    },
+    {
+      "kind": "spsummon",
+      "code": 65741786,
+      "note": "Flamberge + Jet Synchron"
+    },
+    {
+      "kind": "activate",
+      "code": 48452496,
+      "note": "Revive Jet Synchron + Level 1"
+    },
+    {
+      "kind": "spsummon",
+      "code": 50091196,
+      "note": "Synchro with those two"
+    },
+    {
+      "kind": "activate",
+      "code": 9742784,
+      "note": "Discard 1, revive"
+    },
+    {
+      "kind": "spsummon",
+      "code": 2772337,
+      "note": "Jet Synchron + Masquerena"
+    },
+    {
+      "kind": "activate",
+      "code": 2772337,
+      "note": "Revive Flamberge"
+    },
+    {
+      "kind": "activate",
+      "code": 48452496,
+      "note": "Place Masquerena in S/T"
+    },
+    {
+      "kind": "endphase",
+      "code": 0,
+      "note": "End turn"
+    },
+    {
+      "kind": "activate",
+      "code": 50091196,
+      "note": "Opp turn Synchro Summon"
+    },
+    {
+      "kind": "activate",
+      "code": 48452496,
+      "note": "Chain: Special Summon Masquerena from S/T"
+    },
+    {
+      "kind": "spsummon",
+      "code": 84815190,
+      "note": "Formula + Flamberge"
+    },
+    {
+      "kind": "activate",
+      "code": 48452496,
+      "note": "Revive Snake-Eye Oak + Snake-Eye Ash"
+    },
+    {
+      "kind": "activate",
+      "code": 45663742,
+      "note": "Special Summon Snake-Eyes Poplar"
+    },
+    {
+      "kind": "activate",
+      "code": 9674034,
+      "note": "Search follow-up"
+    },
+    {
+      "kind": "activate",
+      "code": 41999284,
+      "note": "CL1: tribute, revive"
+    },
+    {
+      "kind": "activate",
+      "code": 65741786,
+      "note": "CL2: Link Summon"
+    },
+    {
+      "kind": "spsummon",
+      "code": 4280258,
+      "note": "Two Level 1, Formula, Masquerena"
+    },
+    {
+      "kind": "activate",
+      "code": 90241276,
+      "note": "Place Flamberge in S/T"
+    }
+  ],
+  "interrupts": [],
+  "tags": [],
+  "notes": "Opp-turn chain: Linkuriboh, Masquerena, Sprite Elf. Keep key monsters in Sprite Elf zones. 6 disruptions plus Linkuriboh.\n\nSteps not converted (card not found): spsummon Sprite Elf: Princess + Formula Synchron; activate Sprite Elf: Revive Formula Synchron; activate Sprite Elf: CL3: revive Formula Synchron",
+  "difficulty": "Expert",
+  "format": "Master Duel",
+  "archetypes": [
+    "Snake-Eye",
+    "Sinful Spoils"
+  ],
+  "endBoard": [
+    4280258,
+    84815190,
+    2772337,
+    41999284,
+    48452496
+  ],
+  "endHand": 1
+}
