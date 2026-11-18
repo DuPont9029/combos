@@ -6,7 +6,7 @@ video: "https://www.youtube.com/watch?v=szWmBJ6QqNk"
 video_title: "Unchained | Complete Intro Guide (Post MAMS) | Card Overview and Combos | How to Handtrap"
 channel: "PhantomsYGO"
 duration: 42
-transcribed: 2026-11-18T16:03
+transcribed: 2026-11-18T17:11
 model: "S1-Voice (Cloud) + Sonnet 5.5"
 tags:
   - yugioh
@@ -53,11 +53,11 @@ tags:
 
 *Partial decklist: only the cards seen or mentioned in the video*
 
-> [!deck] Main Deck · 36
-> ![Unchained Ogre Shma|52](../cards/31531914.jpg) ![Unchained Ogre Shma|52](../cards/31531914.jpg) ![Unchained Ogre Shma|52](../cards/31531914.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Rakea|52](../cards/53624265.jpg) ![Unchained Twins - Sarama|52](../cards/31588572.jpg) ![Unchained Ogre Shara|52](../cards/95136979.jpg) ![Unchained Soul of Shyama|52](../cards/88554436.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Wailing of the Unchained Souls|52](../cards/54807656.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg) ![Abominable Chamber of the Unchained|52](../cards/80801743.jpg) ![Unchained Syncretism|52](../cards/93898740.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Fiendsmith Engraver|52](../cards/60764609.jpg) ![Fiendsmith's Sanct|52](../cards/35552985.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg)
+> [!deck] Main Deck · 51
+> ![Unchained Ogre Shma|52](../cards/31531914.jpg) ![Unchained Ogre Shma|52](../cards/31531914.jpg) ![Unchained Ogre Shma|52](../cards/31531914.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Rakea|52](../cards/53624265.jpg) ![Unchained Twins - Sarama|52](../cards/31588572.jpg) ![Unchained Ogre Shara|52](../cards/95136979.jpg) ![Unchained Soul of Shyama|52](../cards/88554436.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Wailing of the Unchained Souls|52](../cards/54807656.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg) ![Abominable Chamber of the Unchained|52](../cards/80801743.jpg) ![Unchained Syncretism|52](../cards/93898740.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Fiendsmith Engraver|52](../cards/60764609.jpg) ![Fiendsmith's Sanct|52](../cards/35552985.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Fiendsmith Engraver|52](../cards/60764609.jpg) ![Fiendsmith Engraver|52](../cards/60764609.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg) ![Mulcharmy Fuwalos|52](../cards/42141493.jpg) ![Mulcharmy Fuwalos|52](../cards/42141493.jpg) ![Mulcharmy Fuwalos|52](../cards/42141493.jpg) ![Mulcharmy Purulia|52](../cards/84192580.jpg) ![Mulcharmy Purulia|52](../cards/84192580.jpg) ![Ghost Ogre & Snow Rabbit|52](../cards/59438930.jpg) ![Ghost Ogre & Snow Rabbit|52](../cards/59438930.jpg) ![Nibiru, the Primal Being|52](../cards/27204311.jpg) ![Nibiru, the Primal Being|52](../cards/27204311.jpg) ![Unchained Malevolent Magistrate Kamura|52](../cards/68625623.jpg) ![Lacrima the Crimson Tears|52](../cards/28803166.jpg) ![Abominable Unchained Soul|52](../cards/1966438.jpg) ![Droll & Lock Bird|52](../cards/94145021.jpg)
 
-> [!deck] Extra Deck · 15
-> ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul of Rage|52](../cards/67680512.jpg) ![Unchained Soul of Anguish|52](../cards/93084621.jpg) ![Unchained Soul Rage Abominator|52](../cards/21419436.jpg) ![Unchained Enma Lord Yama|52](../cards/94014327.jpg) ![Unchained Abomination|52](../cards/29479265.jpg) ![S:P Little Knight|52](../cards/29301450.jpg) ![Promethean Princess, Bestower of Flames|52](../cards/2772337.jpg) ![Evilswarm Exciton Knight|52](../cards/46772449.jpg) ![Fiendsmith's Requiem|52](../cards/2463794.jpg) ![Fiendsmith's Sequence|52](../cards/49867899.jpg) ![Fiendsmith's Desirae|52](../cards/82135803.jpg) ![Fiendsmith's Agnumday|52](../cards/32991300.jpg) ![Necroquip Princess|52](../cards/93860227.jpg)
+> [!deck] Extra Deck · 18
+> ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul of Rage|52](../cards/67680512.jpg) ![Unchained Soul of Anguish|52](../cards/93084621.jpg) ![Unchained Soul Rage Abominator|52](../cards/21419436.jpg) ![Unchained Enma Lord Yama|52](../cards/94014327.jpg) ![Unchained Abomination|52](../cards/29479265.jpg) ![S:P Little Knight|52](../cards/29301450.jpg) ![Promethean Princess, Bestower of Flames|52](../cards/2772337.jpg) ![Evilswarm Exciton Knight|52](../cards/46772449.jpg) ![Fiendsmith's Requiem|52](../cards/2463794.jpg) ![Fiendsmith's Sequence|52](../cards/49867899.jpg) ![Fiendsmith's Desirae|52](../cards/82135803.jpg) ![Fiendsmith's Agnumday|52](../cards/32991300.jpg) ![Necroquip Princess|52](../cards/93860227.jpg) ![W:P Fancy Ball|52](../cards/4993187.jpg) ![A Bao A Qu, the Lightless Shadow|52](../cards/4731783.jpg) ![Underworld Goddess of the Closed World|52](../cards/98127546.jpg)
 
 > [!deck] Side Deck · 9
 > ![Unchained Soul of Disaster|52](../cards/89019964.jpg) ![Abominable Unchained Soul|52](../cards/1966438.jpg) ![Buio the Dawn's Light|52](../cards/19000848.jpg) ![Mutiny in the Sky|52](../cards/71593652.jpg) ![Knightmare Unicorn|52](../cards/38342335.jpg) ![Fiendsmith's Lacrima|52](../cards/46640168.jpg) ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul of Rage|52](../cards/67680512.jpg) ![Unchained Soul Rage Abominator|52](../cards/21419436.jpg)
@@ -78,10 +78,18 @@ tags:
 > - 1× Abominable Chamber of the Unchained
 > - 1× Unchained Syncretism
 > - 3× Triple Tactics Thrust
-> - 1× Fiendsmith Engraver
+> - 3× Fiendsmith Engraver
 > - 1× Fiendsmith's Sanct
 > - 3× Ash Blossom & Joyous Spring
 > - 3× Infinite Impermanence
+> - 3× Mulcharmy Fuwalos
+> - 2× Mulcharmy Purulia
+> - 2× Ghost Ogre & Snow Rabbit
+> - 2× Nibiru, the Primal Being
+> - 1× Unchained Malevolent Magistrate Kamura
+> - 1× Lacrima the Crimson Tears
+> - 1× Abominable Unchained Soul
+> - 1× Droll & Lock Bird
 >
 > **Extra**
 > - 2× Unchained Soul Lord of Yama
@@ -98,6 +106,9 @@ tags:
 > - 1× Fiendsmith's Desirae
 > - 1× Fiendsmith's Agnumday
 > - 1× Necroquip Princess
+> - 1× W:P Fancy Ball
+> - 1× A Bao A Qu, the Lightless Shadow
+> - 1× Underworld Goddess of the Closed World
 >
 > **Side**
 > - 1× Unchained Soul of Disaster
@@ -149,9 +160,9 @@ tags:
 
 🎮 Helios: import `txt/unchained-complete-intro-guide-magnificent-maestros-archetype-overview_szWmBJ6QqNk_1.helios.txt` (Combos → Import) · ✅ played by the Helios trainer's Auto-play on 3 shuffles
 
-## ⚔️ Combo 2 · Prison into Shma (Fiendsmith) (partial)
+## ⚔️ Combo 2 · Prison into Shma (Fiendsmith)
 
-`🥇 Going first` · `Expert` · `TCG` · `⚠️ Partial · engine stops at step 23`
+`🥇 Going first` · `Expert` · `TCG` · `✍️ Recorded in Helios · ✅ Tested`
 
 > [!hand] Starting hand · 1
 > ![Abomination's Prison|78](../cards/27412542.jpg)
@@ -167,26 +178,30 @@ tags:
 | **5** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Activate "Unchained Soul Lord of Yama" · Add 1 "Unchained" monster from your Deck/GY to your hand**<br>*CL1.* |  |
 | **6** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate "Unchained Soul of Sharvara" · Set 1 "Unchained" Spell/Trap from your Deck**<br>*CL2.* | 👉 Select "Escape of the Unchained" (from the Deck)<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>👉 Select "Unchained Twins - Aruha" (from the Deck)<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
 | **7** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Activate "Unchained Twins - Aruha" · Destroy and summon**<br>*Pop Escape, SS Aruha.* | 👉 Select "Escape of the Unchained"<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>⚡ Use the effect of "Escape of the Unchained": Yes<br>👉 Select "Unchained Ogre Shara" (from the Deck)<br>![Unchained Ogre Shara\|38](../cards/95136979.jpg) |
-| **8** | ![Unchained Soul Rage Abominator\|56](../cards/21419436.jpg) | 🟣 **Special Summon "Unchained Soul Rage Abominator"** | 👉 Select "Unchained Ogre Shara"<br>![Unchained Ogre Shara\|38](../cards/95136979.jpg)<br>👉 Select "Unchained Soul Lord of Yama"<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg)<br>👉 Finish the selection |
+| **8** | ![Unchained Soul Rage Abominator\|56](../cards/21419436.jpg) | 🟣 **Special Summon "Unchained Soul Rage Abominator"** | 👉 Select "Unchained Soul Lord of Yama"<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg)<br>👉 Select "Unchained Ogre Shara"<br>![Unchained Ogre Shara\|38](../cards/95136979.jpg)<br>👉 Finish the selection |
 | **9** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate "Unchained Soul of Shyama" · Special Summon this card**<br>*GY: pop Aruha, revive Shyama.* | 👉 Select "Unchained Twins - Aruha"<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
 | **10** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Activate "Unchained Twins - Aruha" · Special Summon** |  |
-| **11** | ![Unchained Ogre Shara\|56](../cards/95136979.jpg) | 🔵 **Activate "Unchained Ogre Shara" · Special Summon this card or add it to your hand**<br>*GY: SS itself. Yama's GY effect saved for later.* | 🔀 Choose: Add the card(s) to your hand<br>****<br>👉 Select "Unchained Twins - Sarama" (from the Deck)<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
-| **12** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🟣 **Special Summon "Unchained Soul of Rage"** | 👉 Select "Unchained Soul of Shyama"<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg)<br>👉 Select "Unchained Soul Rage Abominator"<br>![Unchained Soul Rage Abominator\|38](../cards/21419436.jpg) |
-| **13** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Activate "Unchained Twins - Sarama" · Unchained Twins - Sarama**<br>*Set Escape back, destroy Rage.* | 👉 Select "Escape of the Unchained"<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>👉 Select "Unchained Soul of Rage"<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) |
-| **14** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🔵 **Activate "Unchained Soul of Rage" · Link Summon**<br>*Add Sharvara.* | 👉 Select "Unchained Soul of Sharvara"<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
-| **15** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Activate "Unchained Soul Lord of Yama" · Special Summon 1 Fiend monster from your hand/GY**<br>*GY: banish, revive Abominator (no destroy).* | 👉 Select "Unchained Soul Rage Abominator"<br>![Unchained Soul Rage Abominator\|38](../cards/21419436.jpg)<br>⚡ Answer: Yes<br>👉 Select "Escape of the Unchained"<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
-| **16** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate "Unchained Soul of Sharvara" · Special Summon this card**<br>*From hand: pop Sarama, SS Sharvara.* | 👉 Select "Unchained Twins - Sarama"<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg)<br>⚡ Use the effect of "Unchained Twins - Sarama": Yes<br>👉 Select "Unchained Ogre Shma" (from the Deck)<br>![Unchained Ogre Shma\|38](../cards/31531914.jpg) |
-| **17** | ![Unchained Enma Lord Yama\|56](../cards/94014327.jpg) | 🟣 **Special Summon "Unchained Enma Lord Yama"**<br>*Float into a 2nd Shma (Level 4). Link-4.* | 👉 Select "Unchained Soul Rage Abominator"<br>![Unchained Soul Rage Abominator\|38](../cards/21419436.jpg)<br>👉 Select "Unchained Soul of Sharvara"<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **11** | ![Unchained Ogre Shara\|56](../cards/95136979.jpg) | 🔵 **Activate "Unchained Ogre Shara" · Special Summon this card or add it to your hand**<br>*GY: SS itself. Yama's GY effect saved for later.* |  |
+| **12** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Activate "Unchained Soul Lord of Yama" · Special Summon 1 Fiend monster from your hand/GY**<br>*Set Escape back, destroy Rage. Add Sharvara. GY: banish, revive Abominator (no destroy).* | 👉 Select "Unchained Soul of Sharvara"<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg)<br>⚡ Answer: No<br>🔀 Choose: Special Summon it<br>![Unchained Ogre Shara\|38](../cards/95136979.jpg)<br>👉 Select "Unchained Twins - Sarama" (from the Deck)<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **13** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🟣 **Special Summon "Unchained Soul of Rage"** | 👉 Select "Unchained Soul of Shyama"<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg)<br>👉 Select "Unchained Soul of Sharvara"<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **14** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Activate "Unchained Twins - Sarama" · Unchained Twins - Sarama**<br>*From hand: pop Sarama, SS Sharvara. Float into a 2nd Shma (Level 4).* | 👉 Select "Escape of the Unchained"<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>👉 Select "Unchained Soul of Rage"<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg)<br>⚡ Use the effect of "Unchained Soul of Rage": Yes<br>👉 Select "Unchained Soul of Sharvara"<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **15** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate "Unchained Soul of Sharvara" · Special Summon this card** | 👉 Select "Unchained Twins - Sarama"<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg)<br>⚡ Use the effect of "Unchained Twins - Sarama": Yes<br>👉 Select "Unchained Ogre Shma" (from the Deck)<br>![Unchained Ogre Shma\|38](../cards/31531914.jpg) |
+| **16** | ![Unchained Enma Lord Yama\|56](../cards/94014327.jpg) | 🟣 **Special Summon "Unchained Enma Lord Yama"**<br>*Link-4.* | 👉 Select "Unchained Soul of Sharvara"<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg)<br>👉 Select "Unchained Soul Rage Abominator"<br>![Unchained Soul Rage Abominator\|38](../cards/21419436.jpg)<br>👉 Finish the selection |
+| **17** | ![Evilswarm Exciton Knight\|56](../cards/46772449.jpg) | 🟣 **Special Summon "Evilswarm Exciton Knight"**<br>*Fiendsmith bridge (LIGHT Fiend).* | 👉 Select "Unchained Ogre Shma"<br>![Unchained Ogre Shma\|38](../cards/31531914.jpg)<br>👉 Select "Unchained Ogre Shara"<br>![Unchained Ogre Shara\|38](../cards/95136979.jpg) |
+| **18** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🟣 **Special Summon "Fiendsmith's Requiem"** | 👉 Select "Evilswarm Exciton Knight"<br>![Evilswarm Exciton Knight\|38](../cards/46772449.jpg) |
+| **19** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🔵 **Activate "Fiendsmith's Requiem" · Special Summon 1 "Fiendsmith" monster**<br>*Tribute: SS Engraver from Deck (Lacrima is Extra Deck, can't be called).* | 👉 Select "Lacrima the Crimson Tears" (from the Deck)<br>![Lacrima the Crimson Tears\|38](../cards/28803166.jpg)<br>⚡ Use the effect of "Lacrima the Crimson Tears": Yes<br>👉 Select "Fiendsmith Engraver" (from the Deck)<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) |
+| **20** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🔵 **Activate "Fiendsmith's Requiem" · Equip this card to 1 non-Link LIGHT Fiend you control**<br>*GY: equip to Engraver.* | 👉 Select "Lacrima the Crimson Tears"<br>![Lacrima the Crimson Tears\|38](../cards/28803166.jpg) |
+| **21** | ![Fiendsmith Engraver\|56](../cards/60764609.jpg) | 🔵 **Activate "Fiendsmith Engraver" · Special Summon this card**<br>*GY: shuffle Exciton back, SS Engraver.* | 👉 Select "Evilswarm Exciton Knight"<br>![Evilswarm Exciton Knight\|38](../cards/46772449.jpg) |
+| **22** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🟣 **Special Summon "Fiendsmith's Sequence"** | 👉 Select "Lacrima the Crimson Tears"<br>![Lacrima the Crimson Tears\|38](../cards/28803166.jpg)<br>👉 Select "Fiendsmith Engraver"<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) |
+| **23** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🔵 **Activate "Fiendsmith's Sequence" · Fusion Summon 1 Fiend Fusion Monster**<br>*Fusion Desirae shuffling 3 LIGHT Fiends from GY.* | 👉 Select "Fiendsmith's Desirae"<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg)<br>👉 Select "Fiendsmith's Requiem"<br>![Fiendsmith's Requiem\|38](../cards/2463794.jpg)<br>👉 Select "Lacrima the Crimson Tears"<br>![Lacrima the Crimson Tears\|38](../cards/28803166.jpg)<br>👉 Select "Fiendsmith Engraver"<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) |
+| **24** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🔵 **Activate "Fiendsmith's Sequence" · Equip this card to 1 non-Link LIGHT Fiend you control**<br>*Equip Sequence to Desirae.* | 👉 Select "Fiendsmith's Desirae"<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) |
+| **25** | ⏭️ | ⏭️ **End Phase** |  |
+| **26** | ![Unchained Enma Lord Yama\|56](../cards/94014327.jpg) | 🔵 **Activate "Unchained Enma Lord Yama" · Special Summon up to 2 Fiend monsters from your GY** | 👉 Select "Unchained Twins - Rakea", "Unchained Soul of Rage"<br>![Unchained Twins - Rakea\|38](../cards/53624265.jpg) ![Unchained Soul of Rage\|38](../cards/67680512.jpg) |
 
-> [!failure] Where the video line breaks in the engine
-> After step 22 the next action of the video line, **spsummon Evilswarm Exciton Knight**, is not possible in Helios.
+> [!board] End board · 6
+> ![Fiendsmith's Desirae|78](../cards/82135803.jpg) ![Unchained Soul of Rage|78](../cards/67680512.jpg) ![Unchained Enma Lord Yama|78](../cards/94014327.jpg) ![Fiendsmith's Sequence|78](../cards/49867899.jpg) ![Unchained Twins - Rakea|78](../cards/53624265.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg)
 >
-> Legal actions there: Special Summon Unchained Soul Lord of Yama
-
-> [!board] End board · 2
-> ![Unchained Ogre Shma|78](../cards/31531914.jpg) ![Unchained Enma Lord Yama|78](../cards/94014327.jpg)
->
-> **Unchained Ogre Shma** · **Unchained Enma Lord Yama**
+> **Fiendsmith's Desirae** · **Unchained Soul of Rage** · **Unchained Enma Lord Yama** · **Fiendsmith's Sequence** · **Unchained Twins - Rakea** · **Escape of the Unchained**
 >
 > ✋ 1 card(s) left in hand
 
