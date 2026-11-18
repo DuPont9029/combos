@@ -1,6 +1,6 @@
 {
   "v": 3,
-  "name": "Shma 1-card (Pure Unchained)",
+  "name": "Shma one-card (pure Unchained)",
   "first": true,
   "hand": [
     88554436
@@ -9,97 +9,97 @@
     {
       "kind": "summon",
       "code": 88554436,
-      "note": "Normal Summon"
+      "note": "One-card starter."
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "SS Rakea from deck and destroy it"
+      "note": "summon: Unchained Twins - Rakea · other: Unchained Twins - Rakea · Summon Rakea from the deck and destroy it so it floats."
     },
     {
       "kind": "activate",
       "code": 53624265,
-      "note": "Destroyed: SS Shiyama from deck"
+      "note": "summon: Unchained Soul of Shiyama · Rakea destroyed: float into Shiyama."
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "Destroy Shma"
+      "note": "target: Unchained Soul of Shma · Destroy Shma."
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "Destroyed: SS Sharvara from deck"
+      "note": "summon: Unchained Soul of Sharvara · Shma destroyed: summon Sharvara."
     },
     {
       "kind": "spsummon",
       "code": 24269961,
-      "note": "Materials: Sharvara + Shiyama"
+      "note": "materials: Unchained Soul of Sharvara, Unchained Soul of Shiyama · Core goal of every combo."
     },
     {
       "kind": "activate",
       "code": 24269961,
-      "note": "CL1: search Aruha"
+      "note": "search: Unchained Twins - Aruha · Yama CL1: search the other starter."
     },
     {
       "kind": "activate",
       "code": 41165831,
-      "note": "CL2 (GY): set Escape of the Unchained"
+      "note": "set: Escape of the Unchained · Sharvara CL2 in GY: set an Unchained trap."
     },
     {
       "kind": "activate",
       "code": 26236560,
-      "note": "Destroy set Escape, SS Aruha from hand"
+      "note": "target: Escape of the Unchained · summon: Unchained Twins - Aruha · Pop the set trap to Special Summon Aruha from hand."
     },
     {
       "kind": "activate",
       "code": 53417695,
-      "note": "Destroyed while set: SS 2nd Sharvara from deck"
+      "note": "summon: Unchained Soul of Sharvara · Set trap destroyed: summon an Unchained monster."
     },
     {
       "kind": "spsummon",
       "code": 21419436,
-      "note": "Link 3: Sharvara + Yama + Aruha side"
+      "note": "materials: Unchained Soul of Sharvara, Unchained Soul Lord of Yama · Link 3."
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "GY: destroy Aruha, SS itself"
+      "note": "target: Unchained Twins - Aruha · summon: Unchained Soul of Shiyama · Destroy Aruha and revive Shiyama."
     },
     {
       "kind": "activate",
       "code": 26236560,
-      "note": "Destroyed: SS Sarama from deck (keep Yama GY effect)"
+      "note": "summon: Unchained Twins - Sarama · Aruha floats into Sarama; keep Yama's GY effect for later."
     },
     {
       "kind": "spsummon",
       "code": 67680512,
-      "note": "Link 2 with two monsters"
+      "note": "materials: Unchained Soul of Shiyama, Unchained Soul Rage Abominator · Link 2."
     },
     {
       "kind": "activate",
       "code": 31588572,
-      "note": "Set Escape back from GY, destroy Rage"
+      "note": "target: Unchained Soul of Rage · set: Escape of the Unchained · Reset Escape and destroy Rage so the Link 4 brings it back."
     },
     {
       "kind": "activate",
       "code": 67680512,
-      "note": "Destroyed: add a Fiend to hand"
+      "note": "add: Unchained Soul of Sharvara · Rage destroyed: add a Fiend to hand."
     },
     {
       "kind": "spsummon",
       "code": 94014327,
-      "note": "Link 4 with remaining monsters"
+      "note": "materials: Unchained Twins - Sarama · Link 4 end board piece."
     },
     {
       "kind": "endphase",
       "code": 0,
-      "note": "Enma Lord Yama revives Rage + Rakea"
+      "note": "summon: Unchained Soul of Rage, Unchained Twins - Rakea · Enma Lord Yama revives two Unchained destroyed this turn."
     }
   ],
   "interrupts": [],
   "tags": [],
-  "notes": "Goal of every line: Sharvara + Shiyama into Yama, Yama searches the other starter. Optimal: set Reincarnation of the Unchained with Sharvara, search Abomination's Prison, then the trap. Skullmeister is the only hand trap that matters on the Yama chain. Very weak to Fuwalos. Vs Imperm on Rage: Escape pops Rage, GY Yama brings it back unnegated. Pure line = lower ceiling, more resilient.",
+  "notes": "Optimal: set Reincarnation with Sharvara instead, search Prison, then the trap. Skull Meister is the only hand trap that matters on the Yama chain. Vs Imperm on Rage: Escape pops Rage, Yama in GY banishes to revive it. Very weak to Mulcharmy Fuwalos.",
   "difficulty": "Advanced",
   "format": "TCG",
   "archetypes": [

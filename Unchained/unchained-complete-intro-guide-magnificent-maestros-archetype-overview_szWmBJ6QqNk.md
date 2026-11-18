@@ -6,7 +6,7 @@ video: "https://www.youtube.com/watch?v=szWmBJ6QqNk"
 video_title: "Unchained | Complete Intro Guide (Post MAMS) | Card Overview and Combos | How to Handtrap"
 channel: "PhantomsYGO"
 duration: 42
-transcribed: 2026-11-18T03:45
+transcribed: 2026-11-18T04:38
 model: "S1-Voice (Cloud) + Sonnet 5.5"
 tags:
   - yugioh
@@ -49,42 +49,260 @@ tags:
 > - **Nightmare Unicorn** is in the Extra Deck for when you are Fiend-locked, since Rage's lock only allows Fiends while it is on the field.
 > - Fiendsmith lines give a higher ceiling but less follow-up; the pure line has a lower ceiling but more resiliency.
 
----
+## 🃏 Decklist
 
-## Starting hand
+*Partial decklist: only the cards seen or mentioned in the video*
 
-No full combo is shown in this part of the video. The best starters per the overview:
+> [!deck] Main Deck · 35
+> ![Unchained Soul of Shyama|52](../cards/88554436.jpg) ![Unchained Soul of Shyama|52](../cards/88554436.jpg) ![Unchained Soul of Shyama|52](../cards/88554436.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Aruha|52](../cards/26236560.jpg) ![Unchained Twins - Rakea|52](../cards/53624265.jpg) ![Unchained Twins - Sarama|52](../cards/31588572.jpg) ![Unchained Soul of Sharvara|52](../cards/41165831.jpg) ![Unchained Soul of Shyama|52](../cards/88554436.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Abomination's Prison|52](../cards/27412542.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Reincarnation of the Unchained|52](../cards/67803035.jpg) ![Wailing of the Unchained Souls|52](../cards/54807656.jpg) ![Escape of the Unchained|52](../cards/53417695.jpg) ![Abominable Chamber of the Unchained|52](../cards/80801743.jpg) ![Unchained Hunger|52](../cards/93898740.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Triple Tactics Thrust|52](../cards/35269904.jpg) ![Fiendsmith Engraver|52](../cards/60764609.jpg) ![Fiendsmith's Lacrima|52](../cards/46640168.jpg) ![Fiendsmith's Sanct|52](../cards/35552985.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Ash Blossom & Joyous Spring|52](../cards/14558127.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg) ![Infinite Impermanence|52](../cards/10045474.jpg)
 
-- **Unchained Shma** (Shma) alone: normal summon, one-card combo starter
-- **Unchained Shavara** + any other Unchained card: two-card starter
-- **Unchained Aruha** + any other Unchained card: two-card starter
-- **Abominations Prison** or **Reincarnation of the Unchained**: one-card starters (they get you to Shma)
-- Extra Deck: **Unchained Soul Lord of Yama** is the goal of every combo
+> [!deck] Extra Deck · 19
+> ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul Lord of Yama|52](../cards/24269961.jpg) ![Unchained Soul of Rage|52](../cards/67680512.jpg) ![Unchained Soul of Rage|52](../cards/67680512.jpg) ![Unchained Soul of Anguish|52](../cards/93084621.jpg) ![Unchained Soul of Abominable Rage|52](../cards/21419436.jpg) ![Unchained Soul of Abominable Rage|52](../cards/21419436.jpg) ![Unchained Firelord of Yama|52](../cards/94014327.jpg) ![Unchained Abomination|52](../cards/29479265.jpg) ![S:P Little Knight|52](../cards/29301450.jpg) ![Promethean Princess, Bestower of Flames|52](../cards/2772337.jpg) ![Knightmare Unicorn|52](../cards/38342335.jpg) ![Evilswarm Exciton Knight|52](../cards/46772449.jpg) ![Fiendsmith's Requiem|52](../cards/2463794.jpg) ![Fiendsmith's Sequence|52](../cards/49867899.jpg) ![Fiendsmith's Desirae|52](../cards/82135803.jpg) ![Fiendsmith's Agnumday|52](../cards/32991300.jpg) ![Necroquip Princess|52](../cards/93860227.jpg)
 
-## Combo
+> [!deck] Side Deck · 4
+> ![Unchained Soul of Disaster|52](../cards/89019964.jpg) ![Abominable Unchained Soul|52](../cards/1966438.jpg) ![Buio the Dawn's Light|52](../cards/19000848.jpg) ![Mutiny in the Sky|52](../cards/71593652.jpg)
 
-No step-by-step combo is covered in this part of the transcript. The general combo logic described is:
+> [!list]- Card list
+> **Main**
+> - 4× Unchained Soul of Shyama
+> - 4× Unchained Soul of Sharvara
+> - 3× Unchained Twins - Aruha
+> - 1× Unchained Twins - Rakea
+> - 1× Unchained Twins - Sarama
+> - 3× Abomination's Prison
+> - 3× Reincarnation of the Unchained
+> - 1× Wailing of the Unchained Souls
+> - 1× Escape of the Unchained
+> - 1× Abominable Chamber of the Unchained
+> - 1× Unchained Hunger
+> - 3× Triple Tactics Thrust
+> - 1× Fiendsmith Engraver
+> - 1× Fiendsmith's Lacrima
+> - 1× Fiendsmith's Sanct
+> - 3× Ash Blossom & Joyous Spring
+> - 3× Infinite Impermanence
+>
+> **Extra**
+> - 3× Unchained Soul Lord of Yama
+> - 2× Unchained Soul of Rage
+> - 1× Unchained Soul of Anguish
+> - 2× Unchained Soul of Abominable Rage
+> - 1× Unchained Firelord of Yama
+> - 1× Unchained Abomination
+> - 1× S:P Little Knight
+> - 1× Promethean Princess, Bestower of Flames
+> - 1× Knightmare Unicorn
+> - 1× Evilswarm Exciton Knight
+> - 1× Fiendsmith's Requiem
+> - 1× Fiendsmith's Sequence
+> - 1× Fiendsmith's Desirae
+> - 1× Fiendsmith's Agnumday
+> - 1× Necroquip Princess
+>
+> **Side**
+> - 1× Unchained Soul of Disaster
+> - 1× Abominable Unchained Soul
+> - 1× Buio the Dawn's Light
+> - 1× Mutiny in the Sky
 
-1. **Normal Summon** or **Special Summon** an Unchained monster (**Unchained Shma**, **Unchained Rakea**, **Unchained Aruha** or **Unchained Shavara**).
-2. **Activate** the effect of a second Unchained card to destroy a card you control (a monster, or an Unchained Spell/Trap you set).
-3. The destroyed Unchained card summons another Unchained monster from the deck, giving two Unchained monsters on board.
-4. **Link Summon** **Unchained Soul Lord of Yama** with those two monsters.
-5. **Activate** **Unchained Soul Lord of Yama**: search any Unchained card from deck to hand, depending on what the combo needs.
-6. Continue the extension: destroy more Unchained cards to float more monsters, and bring back Spells/Traps with **Unchained Sarama** later in the combo.
-7. Link climb into the end board (**Unchained Enma Lord Yama**, **Unchained Abomination**, etc.).
+## ⚔️ Combo 1 · Shma one-card (pure Unchained)
 
-## End board
+`🥇 Going first` · `Advanced` · `TCG`
 
-Not shown in this part. The Extra Deck pieces and what they do:
+> [!hand] Starting hand · 1
+> ![Unchained Soul of Shyama|78](../cards/88554436.jpg)
+>
+> **Unchained Soul of Shma**
 
-- **Unchained Soul Lord of Yama** (Link): on summon, searches any Unchained card. In the GY, if another card on the field is destroyed, banish it to revive any Unchained from the GY.
-- **Unchained Soul of Rage** (Link-2): quick effect on the opponent's turn to link summon using one of their (Special Summoned) monsters. A popular play is linking with an opponent's monster, then going into **SP** (banish another card), which gives three interruptions in total. If you are Fiend-locked you cannot go into SP.
-- **Unchained Soul of Anguish** (Link-3): ignition effect on your turn only, to link summon using one of your opponent's monsters again (e.g. up into a Link-4 or Link-2).
-- **Unchained Soul Rage Abominator** (Link-3, new): while on the field, if the opponent special summons, destroy a Fiend you control and negate that monster. In the GY, while you control an Unchained Link-4, banish it in response to an opponent's activated effect to destroy the monster that activated it.
-- **Unchained Enma Lord Yama** (Link-4, new, main end board piece): if it would be destroyed, destroy another card on the field instead. In the End Phase, revive two Unchained monsters destroyed this turn.
-- **Unchained Abomination** (Link-4): when a card on the field is destroyed by card effect, destroy a card on the field. When a monster is destroyed by battle, destroy a card on the field. In the End Phase, destroy a card on the field.
+| # | Card | Action | Choices |
+|:-:|:-:|:--|:--|
+| **1** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🟢 **Normal Summon**<br>**Unchained Soul of Shma**<br>*One-card starter.* |  |
+| **2** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma**<br>*Summon Rakea from the deck and destroy it so it floats.* | ✨ Summon<br>![Unchained Twins - Rakea\|38](../cards/53624265.jpg)<br>▸ Choose<br>![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+| **3** | ![Unchained Twins - Rakea\|56](../cards/53624265.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Rakea**<br>*Rakea destroyed: float into Shiyama.* | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **4** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate**<br>**Unchained Soul of Shiyama**<br>*Destroy Shma.* | 🎯 Target<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **5** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma**<br>*Shma destroyed: summon Sharvara.* | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **6** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Lord of Yama**<br>*Core goal of every combo.* | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **7** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Trigger**<br>**Unchained Soul Lord of Yama**<br>*Yama CL1: search the other starter.* | 🔍 Search<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **8** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Sharvara**<br>*Sharvara CL2 in GY: set an Unchained trap.* | 🂠 Set<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
+| **9** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Activate**<br>**Unchained Twins - Aruha**<br>*Pop the set trap to Special Summon Aruha from hand.* | 🎯 Target<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>✨ Summon<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **10** | ![Escape of the Unchained\|56](../cards/53417695.jpg) | 🔵 **Trigger**<br>**Escape of the Unchained**<br>*Set trap destroyed: summon an Unchained monster.* | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **11** | ![Unchained Soul of Abominable Rage\|56](../cards/21419436.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Rage Abominator**<br>*Link 3.* | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg) |
+| **12** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul of Shiyama**<br>*Destroy Aruha and revive Shiyama.* | 🎯 Target<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg)<br>✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **13** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Aruha**<br>*Aruha floats into Sarama; keep Yama's GY effect for later.* | ✨ Summon<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **14** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🟣 **Link Summon**<br>**Unchained Soul of Rage**<br>*Link 2.* | 🔗 Materials<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) ![Unchained Soul of Abominable Rage\|38](../cards/21419436.jpg) |
+| **15** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Activate**<br>**Unchained Twins - Sarama**<br>*Reset Escape and destroy Rage so the Link 4 brings it back.* | 🎯 Target<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg)<br>🂠 Set<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
+| **16** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Rage**<br>*Rage destroyed: add a Fiend to hand.* | ✋ Add to hand<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **17** | ![Unchained Firelord of Yama\|56](../cards/94014327.jpg) | 🟣 **Link Summon**<br>**Unchained Enma Lord Yama**<br>*Link 4 end board piece.* | 🔗 Materials<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **18** | ⏭️ | ⏭️ **End Phase**<br>*Enma Lord Yama revives two Unchained destroyed this turn.* | ✨ Summon<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) ![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
 
-## Notes
+> [!board] End board · 4
+> ![Unchained Firelord of Yama|78](../cards/94014327.jpg) ![Unchained Soul of Rage|78](../cards/67680512.jpg) ![Unchained Twins - Rakea|78](../cards/53624265.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg)
+>
+> **Unchained Enma Lord Yama** · **Unchained Soul of Rage** · **Unchained Twins - Rakea** · **Escape of the Unchained**
+>
+> ✋ 1 card(s) left in hand
+
+> [!warning] Notes
+> Optimal: set Reincarnation with Sharvara instead, search Prison, then the trap. Skull Meister is the only hand trap that matters on the Yama chain. Vs Imperm on Rage: Escape pops Rage, Yama in GY banishes to revive it. Very weak to Mulcharmy Fuwalos.
+
+🎮 Helios: import `unchained-complete-intro-guide-magnificent-maestros-archetype-overview_szWmBJ6QqNk_1.helios.txt` (Combos → Import)
+
+## ⚔️ Combo 2 · Prison into Shma (Fiendsmith)
+
+`🥇 Going first` · `Expert` · `TCG`
+
+> [!hand] Starting hand · 1
+> ![Abomination's Prison|78](../cards/27412542.jpg)
+>
+> **Abomination's Prison**
+
+| # | Card | Action | Choices |
+|:-:|:-:|:--|:--|
+| **1** | ![Abomination's Prison\|56](../cards/27412542.jpg) | 🔵 **Activate**<br>**Abomination's Prison**<br>*Search Shma.* | 🔍 Search<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **2** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🟢 **Normal Summon**<br>**Unchained Soul of Shma** |  |
+| **3** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma**<br>*Summon Rakea and destroy it.* | ✨ Summon<br>![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+| **4** | ![Unchained Twins - Rakea\|56](../cards/53624265.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Rakea** | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **5** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate**<br>**Unchained Soul of Shiyama**<br>*Destroy Shma.* | 🎯 Target<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **6** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **7** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Lord of Yama** | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **8** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Trigger**<br>**Unchained Soul Lord of Yama**<br>*CL1.* | 🔍 Search<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **9** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Sharvara**<br>*CL2.* | 🂠 Set<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
+| **10** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Activate**<br>**Unchained Twins - Aruha**<br>*Pop Escape, Special Summon Aruha.* | 🎯 Target<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
+| **11** | ![Escape of the Unchained\|56](../cards/53417695.jpg) | 🔵 **Trigger**<br>**Escape of the Unchained** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **12** | ![Unchained Soul of Abominable Rage\|56](../cards/21419436.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Rage Abominator** | 🔗 Materials<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg) ![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **13** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul of Shiyama**<br>*Pop Aruha, revive Shiyama.* | 🎯 Target<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **14** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul Lord of Yama**<br>*Triggers from Aruha destruction.* | 🚫 Banish<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg)<br>✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **15** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul of Shara** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **16** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Aruha** | ✨ Summon<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **17** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🟣 **Link Summon**<br>**Unchained Soul of Rage** | 🔗 Materials<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) ![Unchained Soul of Abominable Rage\|38](../cards/21419436.jpg) |
+| **18** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Activate**<br>**Unchained Twins - Sarama** | 🂠 Set<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>🎯 Target<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) |
+| **19** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Rage** | ✋ Add to hand<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **20** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate**<br>**Unchained Soul of Sharvara**<br>*Pop Sarama from hand.* | 🎯 Target<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **21** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Sarama**<br>*Get a Level 4.* | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **22** | ![Unchained Firelord of Yama\|56](../cards/94014327.jpg) | 🟣 **Link Summon**<br>**Unchained Enma Lord Yama**<br>*Link 4, frees zones.* | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **23** | ![Evilswarm Exciton Knight\|56](../cards/46772449.jpg) | 🟣 **Xyz Summon**<br>**Evilswarm Exciton Knight**<br>*Fiendsmith bridge.* | 🔗 Materials<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) ![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **24** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🟣 **Link Summon**<br>**Fiendsmith's Requiem** | 🔗 Materials<br>![Evilswarm Exciton Knight\|38](../cards/46772449.jpg) |
+| **25** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🔵 **Activate**<br>**Fiendsmith's Requiem** | ✨ Summon<br>![Fiendsmith's Lacrima\|38](../cards/46640168.jpg) |
+| **26** | ![Fiendsmith's Lacrima\|56](../cards/46640168.jpg) | 🔵 **Trigger**<br>**Fiendsmith's Lacrima** | 🪦 Send to GY<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) |
+| **27** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🔵 **Activate (GY)**<br>**Fiendsmith's Requiem**<br>*Equip to Lacrima.* | 🎯 Target<br>![Fiendsmith's Lacrima\|38](../cards/46640168.jpg) |
+| **28** | ![Necroquip Princess\|56](../cards/93860227.jpg) | 🟣 **Link Summon**<br>**Necroquip Princess** | 🔗 Materials<br>![Fiendsmith's Lacrima\|38](../cards/46640168.jpg) ![Fiendsmith's Requiem\|38](../cards/2463794.jpg) |
+| **29** | ![Fiendsmith Engraver\|56](../cards/60764609.jpg) | 🔵 **Activate (GY)**<br>**Fiendsmith Engraver**<br>*Revive Engraver.* | ↩️ Return<br>![Evilswarm Exciton Knight\|38](../cards/46772449.jpg) |
+| **30** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🟣 **Link Summon**<br>**Fiendsmith's Sequence** | 🔗 Materials<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) ![Necroquip Princess\|38](../cards/93860227.jpg) |
+| **31** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🔵 **Activate**<br>**Fiendsmith's Sequence** | ↩️ Return<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) ![Fiendsmith's Lacrima\|38](../cards/46640168.jpg) ![Fiendsmith's Requiem\|38](../cards/2463794.jpg)<br>✨ Summon<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) |
+| **32** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🔵 **Activate (GY)**<br>**Fiendsmith's Sequence**<br>*Equip to Desirae.* | 🎯 Target<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) |
+| **33** | ⏭️ | ⏭️ **End Phase** | ✨ Summon<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) ![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+
+> [!board] End board · 6
+> ![Unchained Firelord of Yama|78](../cards/94014327.jpg) ![Fiendsmith's Desirae|78](../cards/82135803.jpg) ![Fiendsmith's Sequence|78](../cards/49867899.jpg) ![Unchained Soul of Rage|78](../cards/67680512.jpg) ![Unchained Twins - Rakea|78](../cards/53624265.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg)
+>
+> **Unchained Enma Lord Yama** · **Fiendsmith's Desirae** · **Fiendsmith's Sequence** · **Unchained Soul of Rage** · **Unchained Twins - Rakea** · **Escape of the Unchained**
+
+> [!warning] Notes
+> Higher ceiling, less follow-up than pure (no Yama in GY, no Sharvara in hand). Requires 2 Level 4s for Exciton Knight bridge.
+
+🎮 Helios: import `unchained-complete-intro-guide-magnificent-maestros-archetype-overview_szWmBJ6QqNk_2.helios.txt` (Combos → Import)
+
+## ⚔️ Combo 3 · Aruha + trap into Shma
+
+`🥇 Going first` · `Expert` · `TCG`
+
+> [!hand] Starting hand · 2
+> ![Unchained Twins - Aruha|78](../cards/26236560.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg)
+>
+> **Unchained Twins - Aruha** · **Escape of the Unchained**
+
+| # | Card | Action | Choices |
+|:-:|:-:|:--|:--|
+| **1** | ![Escape of the Unchained\|56](../cards/53417695.jpg) | 🟤 **Set**<br>**Escape of the Unchained** |  |
+| **2** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Activate**<br>**Unchained Twins - Aruha**<br>*Pop trap, Special Summon Aruha.* | 🎯 Target<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
+| **3** | ![Escape of the Unchained\|56](../cards/53417695.jpg) | 🔵 **Trigger**<br>**Escape of the Unchained** | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **4** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate**<br>**Unchained Soul of Shiyama** | 🎯 Target<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **5** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Aruha** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **6** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Lord of Yama** | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **7** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Trigger**<br>**Unchained Soul Lord of Yama** | 🔍 Search<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **8** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Sharvara**<br>*Two traps line.* | 🂠 Set<br>![Unchained Hunger\|38](../cards/93898740.jpg) |
+| **9** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🟢 **Normal Summon**<br>**Unchained Soul of Shma** |  |
+| **10** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma**<br>*Summon Rakea and destroy it.* | ✨ Summon<br>![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+| **11** | ![Unchained Twins - Rakea\|56](../cards/53624265.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Rakea** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **12** | ![Unchained Soul of Abominable Rage\|56](../cards/21419436.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Rage Abominator** | 🔗 Materials<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg) ![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **13** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul of Shiyama**<br>*Pop Shma, revive Shiyama.* | 🎯 Target<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **14** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma**<br>*Triggers from Shma, Yama, Shara give three bodies.* | ✨ Summon<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **15** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul of Shara** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **16** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🟣 **Link Summon**<br>**Unchained Soul of Rage** | 🔗 Materials<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) ![Unchained Soul of Abominable Rage\|38](../cards/21419436.jpg) |
+| **17** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Activate**<br>**Unchained Twins - Sarama** | 🂠 Set<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>🎯 Target<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) |
+| **18** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Rage**<br>*Pure line: keep Sharvara in hand and skip popping Sarama.* | ✋ Add to hand<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **19** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate**<br>**Unchained Soul of Sharvara**<br>*Fiendsmith line only.* | 🎯 Target<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **20** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Sarama** | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **21** | ![Unchained Firelord of Yama\|56](../cards/94014327.jpg) | 🟣 **Link Summon**<br>**Unchained Enma Lord Yama** | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **22** | ![Evilswarm Exciton Knight\|56](../cards/46772449.jpg) | 🟣 **Xyz Summon**<br>**Evilswarm Exciton Knight**<br>*Then same Fiendsmith line as Combo 2 (Requiem, Lacrima, Necroquip, Sequence, Desirae).* | 🔗 Materials<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) ![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **23** | ⏭️ | ⏭️ **End Phase** | ✨ Summon<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) ![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+
+> [!board] End board · 6
+> ![Unchained Firelord of Yama|78](../cards/94014327.jpg) ![Fiendsmith's Desirae|78](../cards/82135803.jpg) ![Unchained Soul of Rage|78](../cards/67680512.jpg) ![Unchained Twins - Rakea|78](../cards/53624265.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg) ![Unchained Hunger|78](../cards/93898740.jpg)
+>
+> **Unchained Enma Lord Yama** · **Fiendsmith's Desirae** · **Unchained Soul of Rage** · **Unchained Twins - Rakea** · **Escape of the Unchained** · **Unchained Syncretism**
+
+> [!warning] Notes
+> Pure variant: keep Sharvara in hand, don't pop Sarama, just link into the Link-4 Yama.
+
+🎮 Helios: import `unchained-complete-intro-guide-magnificent-maestros-archetype-overview_szWmBJ6QqNk_3.helios.txt` (Combos → Import)
+
+## ⚔️ Combo 4 · Sharvara + trap into Shma (Agnumday)
+
+`🥇 Going first` · `Expert` · `TCG`
+
+> [!hand] Starting hand · 2
+> ![Unchained Soul of Sharvara|78](../cards/41165831.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg)
+>
+> **Unchained Soul of Sharvara** · **Escape of the Unchained**
+
+| # | Card | Action | Choices |
+|:-:|:-:|:--|:--|
+| **1** | ![Escape of the Unchained\|56](../cards/53417695.jpg) | 🟤 **Set**<br>**Escape of the Unchained** |  |
+| **2** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Activate**<br>**Unchained Soul of Sharvara**<br>*Pop trap, Special Summon Sharvara.* | 🎯 Target<br>![Escape of the Unchained\|38](../cards/53417695.jpg) |
+| **3** | ![Escape of the Unchained\|56](../cards/53417695.jpg) | 🔵 **Trigger**<br>**Escape of the Unchained** | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **4** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Lord of Yama** | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **5** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Trigger**<br>**Unchained Soul Lord of Yama** | 🔍 Search<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **6** | ![Unchained Soul of Sharvara\|56](../cards/41165831.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Sharvara** | 🂠 Set<br>![Unchained Hunger\|38](../cards/93898740.jpg) |
+| **7** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🟢 **Normal Summon**<br>**Unchained Soul of Shma** |  |
+| **8** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma**<br>*Summon Aruha and destroy it.* | ✨ Summon<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **9** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Aruha** | ✨ Summon<br>![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+| **10** | ![Unchained Twins - Rakea\|56](../cards/53624265.jpg) | 🔵 **Activate**<br>**Unchained Twins - Rakea** | 🎯 Target<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **11** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Shma** | ✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **12** | ![Unchained Soul of Abominable Rage\|56](../cards/21419436.jpg) | 🟣 **Link Summon**<br>**Unchained Soul Rage Abominator** | 🔗 Materials<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg) ![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+| **13** | ![Unchained Soul of Shyama\|56](../cards/88554436.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul of Shiyama**<br>*Pop the trap, revive Shiyama.* | 🎯 Target<br>![Unchained Hunger\|38](../cards/93898740.jpg) |
+| **14** | ![Unchained Hunger\|56](../cards/93898740.jpg) | 🔵 **Trigger**<br>**Unchained Syncretism** | ✨ Summon<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **15** | ![Unchained Soul Lord of Yama\|56](../cards/24269961.jpg) | 🔵 **Activate (GY)**<br>**Unchained Soul Lord of Yama**<br>*Leave a zone open for Rage.* | 🚫 Banish<br>![Unchained Soul Lord of Yama\|38](../cards/24269961.jpg)<br>✨ Summon<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) |
+| **16** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🟣 **Link Summon**<br>**Unchained Soul of Rage** | 🔗 Materials<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) ![Unchained Soul of Abominable Rage\|38](../cards/21419436.jpg) |
+| **17** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Activate**<br>**Unchained Twins - Sarama** | 🂠 Set<br>![Escape of the Unchained\|38](../cards/53417695.jpg)<br>🎯 Target<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) |
+| **18** | ![Unchained Soul of Rage\|56](../cards/67680512.jpg) | 🔵 **Trigger**<br>**Unchained Soul of Rage** | ✋ Add to hand<br>![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **19** | ![Unchained Twins - Aruha\|56](../cards/26236560.jpg) | 🔵 **Activate**<br>**Unchained Twins - Aruha** | 🎯 Target<br>![Unchained Twins - Sarama\|38](../cards/31588572.jpg) |
+| **20** | ![Unchained Twins - Sarama\|56](../cards/31588572.jpg) | 🔵 **Trigger**<br>**Unchained Twins - Sarama**<br>*Shiyama went back to deck, resummon it.* | ✨ Summon<br>![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **21** | ![Unchained Firelord of Yama\|56](../cards/94014327.jpg) | 🟣 **Link Summon**<br>**Unchained Enma Lord Yama** | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **22** | ![Evilswarm Exciton Knight\|56](../cards/46772449.jpg) | 🟣 **Xyz Summon**<br>**Evilswarm Exciton Knight** | 🔗 Materials<br>![Unchained Soul of Sharvara\|38](../cards/41165831.jpg) ![Unchained Soul of Shyama\|38](../cards/88554436.jpg) |
+| **23** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🟣 **Link Summon**<br>**Fiendsmith's Requiem** | 🔗 Materials<br>![Evilswarm Exciton Knight\|38](../cards/46772449.jpg) |
+| **24** | ![Fiendsmith's Requiem\|56](../cards/2463794.jpg) | 🔵 **Activate**<br>**Fiendsmith's Requiem** | ✨ Summon<br>![Fiendsmith's Lacrima\|38](../cards/46640168.jpg) |
+| **25** | ![Fiendsmith's Lacrima\|56](../cards/46640168.jpg) | 🔵 **Trigger**<br>**Fiendsmith's Lacrima** | 🪦 Send to GY<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) |
+| **26** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🟣 **Link Summon**<br>**Fiendsmith's Sequence** | 🔗 Materials<br>![Fiendsmith's Lacrima\|38](../cards/46640168.jpg) ![Unchained Twins - Aruha\|38](../cards/26236560.jpg) |
+| **27** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🔵 **Activate**<br>**Fiendsmith's Sequence** | ↩️ Return<br>![Fiendsmith Engraver\|38](../cards/60764609.jpg) ![Fiendsmith's Requiem\|38](../cards/2463794.jpg) ![Fiendsmith's Lacrima\|38](../cards/46640168.jpg)<br>✨ Summon<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) |
+| **28** | ![Fiendsmith's Agnumday\|56](../cards/32991300.jpg) | 🟣 **Link Summon**<br>**Fiendsmith's Agnumday** | 🔗 Materials<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) ![Fiendsmith's Sequence\|38](../cards/49867899.jpg) |
+| **29** | ![Fiendsmith's Agnumday\|56](../cards/32991300.jpg) | 🔵 **Activate**<br>**Fiendsmith's Agnumday** | ✨ Summon<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) |
+| **30** | ![Fiendsmith's Sequence\|56](../cards/49867899.jpg) | 🔵 **Activate (GY)**<br>**Fiendsmith's Sequence**<br>*Big Desirae.* | 🎯 Target<br>![Fiendsmith's Desirae\|38](../cards/82135803.jpg) |
+| **31** | ⏭️ | ⏭️ **End Phase** | ✨ Summon<br>![Unchained Soul of Rage\|38](../cards/67680512.jpg) ![Unchained Twins - Rakea\|38](../cards/53624265.jpg) |
+
+> [!board] End board · 7
+> ![Unchained Firelord of Yama|78](../cards/94014327.jpg) ![Fiendsmith's Agnumday|78](../cards/32991300.jpg) ![Fiendsmith's Desirae|78](../cards/82135803.jpg) ![Fiendsmith's Sequence|78](../cards/49867899.jpg) ![Unchained Soul of Rage|78](../cards/67680512.jpg) ![Unchained Twins - Rakea|78](../cards/53624265.jpg) ![Escape of the Unchained|78](../cards/53417695.jpg)
+>
+> **Unchained Enma Lord Yama** · **Fiendsmith's Agnumday** · **Fiendsmith's Desirae** · **Fiendsmith's Sequence** · **Unchained Soul of Rage** · **Unchained Twins - Rakea** · **Escape of the Unchained**
+
+> [!warning] Notes
+> Starting with Sharvara limits you since it's needed later to pop from hand. If Desirae is cleared, Lacrima in GY can bring it back.
+
+🎮 Helios: import `unchained-complete-intro-guide-magnificent-maestros-archetype-overview_szWmBJ6QqNk_4.helios.txt` (Combos → Import)
+
+## 📝 Video notes
+
+### Notes
 
 ### Archetype overview
 
@@ -179,172 +397,7 @@ Most of these Links lock you into summoning Fiends.
 
 The video also mentions a second list with a little **Fiendsmith** involved, where the non-engine is swapped out for more engine, plus other interesting options for main deck or non-engine swaps. That content is not included in this transcript.
 
-## Starting hand
-
-Deck notes before the combos:
-- **Impulse** is only worth playing alongside **Gallant**; otherwise **Gallant** is just a Lava Golem.
-- Level 8 options exist in the side, but they are optional.
-- **Promethean Princess, Bestower of Flames** is an Extra Deck option in the Fiendsmith version.
-- **Buio the Dawn's Light** is a Fiend extender I want in the deck, but I'm unsure what to cut.
-- 1 Engraver, 1 Lacrima, 1 Sanct in the Fiendsmith build.
-
-Combo 1 (Shma, pure Unchained):
-- **Unchained Soul of Shma**
-
-Combo 2 (Shma, Fiendsmith):
-- **Abomination's Prison** (searches **Unchained Soul of Shma**)
-
-Combo 3 (Aruha + trap):
-- **Unchained Soul of Aruha**
-- Any Unchained trap
-
-Combo 4 (Sharvara + trap):
-- **Unchained Abomination Sharvara**
-- Any Unchained trap
-
----
-
-## Combo
-
-### Combo 1: Shma, one card, pure Unchained
-
-1. **Normal Summon** **Unchained Soul of Shma**.
-2. **Activate** **Shma** effect: Special Summon **Unchained Soul of Rakea** and destroy it (you want to summon something that floats).
-3. **Activate** **Rakea** effect (when destroyed): Special Summon **Unchained Soul of Shiyama**.
-4. **Activate** **Shiyama** effect: destroy **Shma** (no Spell/Trap to destroy optionally).
-5. **Activate** **Shma** effect (when destroyed): Special Summon a copy of **Unchained Abomination Sharvara**.
-6. **Link Summon** **Unchained Soul of Yama** using **Sharvara** and **Shiyama**.
-7. **Activate** **Yama** effect: search **Unchained Soul of Aruha**.
-8. **Activate** **Sharvara** effect: set an Unchained trap (e.g. **Escape of the Unchained**).
-9. **Activate** **Aruha** + trap (the other starter): pop the trap to Special Summon **Aruha**.
-10. **Activate** the trap's floating effect: Special Summon **Sharvara**.
-11. **Link Summon** the Link 3 **Unchained Abomination** using **Sharvara** and **Yama**.
-12. **Activate** **Shiyama** effect in the GY: destroy **Aruha** and Special Summon **Shiyama**.
-13. **Activate** **Aruha**, **Sharvara**, and **Yama** triggers (something was destroyed); Yama is not used yet.
-14. **Activate** **Aruha** effect (when destroyed): Special Summon **Unchained Soul of Sarama** from the deck.
-15. **Link Summon** **Unchained Soul of Rage** using two monsters.
-16. **Activate** **Sarama** effect: destroy **Rage** (common part of every combo, so the Link 4 can bring Rage back later).
-17. **Set** an Unchained trap (**Escape of the Unchained**) with the effect.
-18. **Activate** **Rage** effect (when destroyed): add a Fiend back to hand.
-19. **Link Summon** **Unchained Soul of Yama** (Link 4).
-20. **End Phase**: **Yama** Special Summons **Rage** and **Rakea** back.
-
-> [!important] Optimal Sharvara line
-> In every combo I set the trap directly with **Sharvara**. Optimally, set **Reincarnation** with Sharvara, activate it, search **Abomination's Prison**, then search the trap you want with it. That way you gain extra value because **Reincarnation** shuffles back.
-
-### Combo 2: Shma, one card, Fiendsmith
-
-1. **Activate** **Abomination's Prison**: search **Unchained Soul of Shma**.
-2. **Normal Summon** **Shma**.
-3. **Activate** **Shma** effect: Special Summon **Rakea** and destroy it.
-4. **Activate** **Rakea** effect: Special Summon **Shiyama**.
-5. **Activate** **Shiyama** effect: destroy **Shma**.
-6. **Activate** **Shma** effect: Special Summon **Sharvara**.
-7. **Link Summon** **Yama** using the two Level 6 monsters.
-8. **Activate** **Yama** effect (Chain Link 1): search **Aruha**.
-9. **Activate** **Sharvara** effect (Chain Link 2): set **Escape of the Unchained**.
-10. **Activate** **Aruha** effect: pop **Escape** to Special Summon **Aruha**.
-11. **Activate** **Escape** floating effect: Special Summon **Shara**.
-12. **Link Summon** the Link 3 **Abominator** (blue Link 3).
-13. **Activate** **Shiyama** effect: pop **Aruha** to Special Summon **Shiyama**.
-14. **Activate** **Aruha**, **Sharvara**, and **Yama** triggers.
-15. **Special Summon** **Sharvara** from the GY.
-16. **Special Summon** **Shara** from the GY.
-17. **Special Summon** another **Sarama** from the deck.
-18. **Link Summon** **Rage**.
-19. **Activate** **Sarama** effect: pop **Rage** and set back **Escape**.
-20. **Activate** **Rage** effect: add a Fiend (**Sharvara**) to hand.
-21. **Activate** **Sharvara** from hand: pop **Sarama**.
-22. **Activate** **Sarama** effect: Special Summon a Level 4 (**Shara**).
-23. **Link Summon** **Yama** to make space.
-24. **Xyz Summon** **Exiton Knight** with two Level 4 monsters.
-25. **Xyz Summon** **Fiendsmith's Requiem** using **Exiton Knight**.
-26. **Activate** **Requiem** effect: Special Summon **Fiendsmith's Lacrima**.
-27. **Activate** **Lacrima** effect: send **Fiendsmith Engraver** to the GY.
-28. **Activate** **Requiem** effect: equip itself to **Lacrima**.
-29. **Link Summon** **Fiendsmith's Necroquip Princess**.
-30. **Activate** **Engraver** effect: shuffle **Exiton Knight** back to the Extra Deck to Special Summon itself.
-31. **Link Summon** **Fiendsmith's Sequence**.
-32. **Activate** **Sequence** effect: with three LIGHT Fiends in the GY, shuffle all three back to Special Summon **Fiendsmith's Desiree**.
-33. **Activate** **Sequence** effect: equip it to **Desiree**.
-34. **End Phase**: **Yama** Special Summons **Rage** and **Rakea** back.
-
-### Combo 3: Aruha + trap, then Shma
-
-1. **Activate** **Aruha** effect: pop the trap to Special Summon **Aruha**.
-2. **Activate** the trap's floating effect: Special Summon **Shiyama**.
-3. **Activate** **Shiyama** effect: pop **Aruha** to Special Summon **Sharvara**.
-4. **Link Summon** **Yama** using the two Level 6 monsters.
-5. **Activate** **Yama** effect: search **Shma** (the other starter).
-6. **Activate** **Sharvara** effect: set **Escape of the Unchained** (this combo gets two traps on board).
-7. **Normal Summon** **Shma**.
-8. **Activate** **Shma** effect: Special Summon **Rakea** and destroy it.
-9. **Activate** **Rakea** effect: float into **Shara**.
-10. **Link Summon** the Link 3 **Abominator**.
-11. **Activate** **Shiyama** effect: pop **Shara**.
-12. **Activate** **Shiyama** effect: pop **Shma** and Special Summon **Shiyama**.
-13. **Activate** **Shma**, **Yama**, and **Shara** triggers: three more bodies, one of them **Sarama** from the deck.
-14. **Link Summon** **Rage**.
-15. **Activate** **Sarama** effect: pop **Rage** and set back the trap you started with.
-16. **Activate** **Rage** effect: add **Sharvara** back to hand.
-17. **Activate** **Sharvara** from hand: pop **Sarama**.
-18. **Activate** **Sarama** effect: float into **Shma**.
-19. **Link Summon** **Yama** (Link 4) (Fiendsmith line continues: **Xyz Summon** **Exiton Knight** with Shma and Shara, then the same steps as Combo 2).
-20. **Xyz Summon** **Requiem**, summon **Lacrima**, dump **Engraver**, make **Necroquip**, resummon **Exiton Knight**, and **Link Summon** **Sequence**.
-21. **Activate** **Sequence** effect: shuffle back three Fiends for **Desiree**, then equip **Sequence** to **Desiree**.
-22. **End Phase**: **Rage** and **Rakea** come back.
-
-> [!example] Pure variant of Aruha + trap
-> If you are not playing Fiendsmith, rewind to when you have **Sharvara** in hand: ==don't use it, keep it==. Don't pop **Sarama**, just link into **Yama**, and you have **Yama**'s End Phase effect.
-
-### Combo 4: Sharvara + trap
-
-1. **Activate** the trap: pop it to Special Summon **Sharvara**.
-2. **Activate** the trap's floating effect: Special Summon **Shiyama**.
-3. **Link Summon** **Yama** using **Sharvara** and **Shiyama**.
-4. **Activate** **Yama** effect: search **Shma**.
-5. **Activate** **Sharvara** effect: set **Escape of the Unchained** (or any trap you want).
-6. **Normal Summon** **Shma**.
-7. **Activate** **Shma** effect: Special Summon **Aruha** and destroy it.
-8. **Activate** **Aruha** effect: Special Summon **Rakea**.
-9. **Activate** **Rakea** effect: pop **Shma**.
-10. **Activate** **Shma** effect: Special Summon **Shara** from the deck.
-11. **Link Summon** the Link 3 **Abominator**.
-12. **Activate** **Shiyama** effect: pop the trap and Special Summon **Shiyama** (bigger monster board version; the double-trap version is similar to Combo 3).
-13. **Activate** the triggers: the trap, **Shara**, and **Yama**.
-14. **Activate** **Yama** effect: Special Summon **Sharvara**; also summon **Sarama** from the deck. Leave the zone open for **Rage** (use an Unchained Soul monster as material).
-15. **Link Summon** **Rage**.
-16. **Activate** **Sarama** effect: pop **Rage** and set back either trap (**Escape** or **Syncretism**).
-17. **Activate** **Rage** effect: add **Aruha** back to hand.
-18. **Activate** **Aruha** from hand: pop **Sarama**.
-19. **Activate** **Sarama** effect: Special Summon **Shiyama** from the deck-side (it was put back in the deck by its own effect, so resummoning gets it back to the GY).
-20. **Link Summon** **Yama** (Link 4).
-21. **Xyz Summon** **Exiton Knight**, then the Fiendsmith line: **Requiem**, **Lacrima** (dump **Engraver**).
-22. **Link Summon** **Fiendsmith's Sequence** using **Lacrima** and **Aruha**.
-23. **Activate** **Sequence** effect: shuffle back three Fiends to Special Summon **Desiree**.
-24. **Link Summon** **Fiendsmith's Agnumday** using **Desiree** and **Sequence**.
-25. **Activate** **Agnumday** effect: Special Summon **Desiree**.
-26. **Activate** **Sequence** effect: equip it to **Desiree** (a big Desiree). If cleared, **Lacrima** in the GY can bring it back.
-27. **End Phase**: **Yama** Special Summons **Rage** and **Rakea**.
-
----
-
-## End board
-
-Pure Unchained end board:
-- **Unchained Soul of Rage**: negates the opponent's Link monster effects / link-off interruption.
-- **Unchained Soul of Rakea**: tries to pop the Link 4; the Link 4 pops something on the opponent's board instead.
-- **Escape of the Unchained** (set): pops a Fiend plus one of the opponent's cards.
-- **Abominator** (in the GY): pops one of the opponent's cards.
-- **Unchained Soul of Yama** (in the GY): whenever something is destroyed, banish it to Special Summon an Unchained monster.
-
-Fiendsmith end board (differences):
-- Same as above, but with ==less follow-up==: no **Yama** in the GY engraved and no **Sharvara** in hand.
-- Adds **Fiendsmith's Desiree** on the board (or a big Desiree equipped with **Sequence**, backed by **Lacrima** in the GY in the Sharvara + trap line).
-
----
-
-## Notes
+### Notes
 
 - **Impulse** is only worth playing with **Gallant**; otherwise **Gallant** is just a Lava Golem.
 - Level 8s in the side are only options you can play if you really want to.

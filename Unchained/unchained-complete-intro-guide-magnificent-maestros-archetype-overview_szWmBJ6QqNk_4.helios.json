@@ -1,166 +1,169 @@
 {
   "v": 3,
-  "name": "Sharvara + Trap into Shma",
+  "name": "Sharvara + trap into Shma (Agnumday)",
   "first": true,
   "hand": [
     41165831,
-    80801743
+    53417695
   ],
   "steps": [
     {
       "kind": "set",
-      "code": 80801743,
-      "note": "Set the trap"
+      "code": 53417695
     },
     {
       "kind": "activate",
       "code": 41165831,
-      "note": "Pop the set trap, SS itself"
-    },
-    {
-      "kind": "activate",
-      "code": 80801743,
-      "note": "Float: SS Shiyama"
-    },
-    {
-      "kind": "spsummon",
-      "code": 24269961,
-      "note": "Sharvara + Shiyama"
-    },
-    {
-      "kind": "activate",
-      "code": 24269961,
-      "note": "Search Shma"
-    },
-    {
-      "kind": "activate",
-      "code": 41165831,
-      "note": "Set Escape of the Unchained"
-    },
-    {
-      "kind": "summon",
-      "code": 88554436,
-      "note": "Normal Summon"
-    },
-    {
-      "kind": "activate",
-      "code": 88554436,
-      "note": "SS Aruha and destroy it"
-    },
-    {
-      "kind": "activate",
-      "code": 26236560,
-      "note": "SS Rakea"
-    },
-    {
-      "kind": "activate",
-      "code": 53624265,
-      "note": "Pop Shma"
-    },
-    {
-      "kind": "activate",
-      "code": 88554436,
-      "note": "SS Shara from deck"
-    },
-    {
-      "kind": "spsummon",
-      "code": 21419436,
-      "note": "Link 3"
-    },
-    {
-      "kind": "activate",
-      "code": 88554436,
-      "note": "GY: pop trap, SS itself"
+      "note": "target: Escape of the Unchained · Pop trap, Special Summon Sharvara."
     },
     {
       "kind": "activate",
       "code": 53417695,
-      "note": "Float: SS Sarama; Shara revives itself"
+      "note": "summon: Unchained Soul of Shiyama"
+    },
+    {
+      "kind": "spsummon",
+      "code": 24269961,
+      "note": "materials: Unchained Soul of Sharvara, Unchained Soul of Shiyama"
     },
     {
       "kind": "activate",
       "code": 24269961,
-      "note": "GY: banish, SS Sharvara"
-    },
-    {
-      "kind": "spsummon",
-      "code": 67680512,
-      "note": "Link 2, leave zone open"
+      "note": "search: Unchained Soul of Shma"
     },
     {
       "kind": "activate",
-      "code": 31588572,
-      "note": "Pop Rage, set back Escape or Syncretism"
+      "code": 41165831,
+      "note": "set: Unchained Syncretism"
+    },
+    {
+      "kind": "summon",
+      "code": 88554436
     },
     {
       "kind": "activate",
-      "code": 67680512,
-      "note": "Add Aruha to hand"
+      "code": 88554436,
+      "note": "summon: Unchained Twins - Aruha · Summon Aruha and destroy it."
     },
     {
       "kind": "activate",
       "code": 26236560,
-      "note": "Pop Sarama, SS itself"
+      "note": "summon: Unchained Twins - Rakea"
+    },
+    {
+      "kind": "activate",
+      "code": 53624265,
+      "note": "target: Unchained Soul of Shma"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "summon: Unchained Soul of Shara"
+    },
+    {
+      "kind": "spsummon",
+      "code": 21419436,
+      "note": "materials: Unchained Soul Lord of Yama, Unchained Twins - Rakea"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "target: Unchained Syncretism · Pop the trap, revive Shiyama."
+    },
+    {
+      "kind": "activate",
+      "code": 93898740,
+      "note": "summon: Unchained Twins - Sarama"
+    },
+    {
+      "kind": "activate",
+      "code": 24269961,
+      "note": "banish: Unchained Soul Lord of Yama · summon: Unchained Soul of Sharvara · Leave a zone open for Rage."
+    },
+    {
+      "kind": "spsummon",
+      "code": 67680512,
+      "note": "materials: Unchained Soul of Shiyama, Unchained Soul Rage Abominator"
     },
     {
       "kind": "activate",
       "code": 31588572,
-      "note": "Float into Shiyama from deck"
+      "note": "set: Escape of the Unchained · target: Unchained Soul of Rage"
+    },
+    {
+      "kind": "activate",
+      "code": 67680512,
+      "note": "add: Unchained Twins - Aruha"
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "note": "target: Unchained Twins - Sarama"
+    },
+    {
+      "kind": "activate",
+      "code": 31588572,
+      "note": "summon: Unchained Soul of Shiyama · Shiyama went back to deck, resummon it."
     },
     {
       "kind": "spsummon",
       "code": 94014327,
-      "note": "Link 4"
+      "note": "materials: Unchained Soul of Sharvara, Unchained Soul of Shiyama"
+    },
+    {
+      "kind": "spsummon",
+      "code": 46772449,
+      "note": "materials: Unchained Soul of Shara, Unchained Soul of Shma"
     },
     {
       "kind": "spsummon",
       "code": 2463794,
-      "note": "Using Exiton Knight"
+      "note": "materials: Evilswarm Exciton Knight"
     },
     {
       "kind": "activate",
       "code": 2463794,
-      "note": "SS Lacrima"
+      "note": "summon: Fiendsmith's Lacrima"
     },
     {
       "kind": "activate",
       "code": 46640168,
-      "note": "Send Engraver"
+      "note": "send: Fiendsmith Engraver"
     },
     {
       "kind": "spsummon",
       "code": 49867899,
-      "note": "Lacrima + Aruha"
+      "note": "materials: Fiendsmith's Lacrima, Unchained Twins - Aruha"
     },
     {
       "kind": "activate",
       "code": 49867899,
-      "note": "Shuffle 3 Fiends, Desirae"
+      "note": "return: Fiendsmith Engraver, Fiendsmith's Requiem, Fiendsmith's Lacrima · summon: Fiendsmith's Desirae"
     },
     {
       "kind": "spsummon",
       "code": 32991300,
-      "note": "Desirae + Sequence"
+      "note": "materials: Fiendsmith's Desirae, Fiendsmith's Sequence"
     },
     {
       "kind": "activate",
       "code": 32991300,
-      "note": "SS Desirae"
+      "note": "summon: Fiendsmith's Desirae"
     },
     {
       "kind": "activate",
       "code": 49867899,
-      "note": "Equip to Desirae"
+      "note": "target: Fiendsmith's Desirae · Big Desirae."
     },
     {
       "kind": "endphase",
       "code": 0,
-      "note": "Enma Lord Yama revives Rage + Rakea"
+      "note": "summon: Unchained Soul of Rage, Unchained Twins - Rakea"
     }
   ],
   "interrupts": [],
   "tags": [],
-  "notes": "Starting on Sharvara limits you since it's needed later to pop from hand; Aruha substitutes. Lacrima in GY can recover Desirae. Shiyama goes to deck bottom when it leaves, so resummon it to get it back to GY.\n\nSteps not converted (card not found): spsummon Exiton Knight: Two Level 4s",
+  "notes": "Starting with Sharvara limits you since it's needed later to pop from hand. If Desirae is cleared, Lacrima in GY can bring it back.",
   "difficulty": "Expert",
   "format": "TCG",
   "archetypes": [
@@ -171,6 +174,7 @@
     94014327,
     32991300,
     82135803,
+    49867899,
     67680512,
     53624265,
     53417695

@@ -9,167 +9,171 @@
     {
       "kind": "activate",
       "code": 27412542,
-      "note": "Search Shma"
+      "note": "search: Unchained Soul of Shma · Search Shma."
     },
     {
       "kind": "summon",
-      "code": 88554436,
-      "note": "Normal Summon"
+      "code": 88554436
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "SS Rakea and destroy it"
+      "note": "summon: Unchained Twins - Rakea · Summon Rakea and destroy it."
     },
     {
       "kind": "activate",
       "code": 53624265,
-      "note": "SS Shiyama"
+      "note": "summon: Unchained Soul of Shiyama"
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "Destroy Shma"
+      "note": "target: Unchained Soul of Shma · Destroy Shma."
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "SS Sharvara"
+      "note": "summon: Unchained Soul of Sharvara"
     },
     {
       "kind": "spsummon",
       "code": 24269961,
-      "note": "Sharvara + Shiyama"
+      "note": "materials: Unchained Soul of Sharvara, Unchained Soul of Shiyama"
     },
     {
       "kind": "activate",
       "code": 24269961,
-      "note": "CL1: search Aruha"
+      "note": "search: Unchained Twins - Aruha · CL1."
     },
     {
       "kind": "activate",
       "code": 41165831,
-      "note": "CL2: set Escape of the Unchained"
+      "note": "set: Escape of the Unchained · CL2."
     },
     {
       "kind": "activate",
       "code": 26236560,
-      "note": "Pop Escape, SS Aruha"
+      "note": "target: Escape of the Unchained · Pop Escape, Special Summon Aruha."
     },
     {
       "kind": "activate",
       "code": 53417695,
-      "note": "Float: SS Shara"
+      "note": "summon: Unchained Soul of Shara"
     },
     {
       "kind": "spsummon",
       "code": 21419436,
-      "note": "Link 3"
+      "note": "materials: Unchained Soul Lord of Yama, Unchained Soul of Shara"
     },
     {
       "kind": "activate",
       "code": 88554436,
-      "note": "GY: pop Aruha, SS itself"
-    },
-    {
-      "kind": "activate",
-      "code": 26236560,
-      "note": "Destroyed: SS Sarama from deck"
+      "note": "target: Unchained Twins - Aruha · Pop Aruha, revive Shiyama."
     },
     {
       "kind": "activate",
       "code": 24269961,
-      "note": "GY: banish, SS Sharvara"
+      "note": "banish: Unchained Soul Lord of Yama · summon: Unchained Soul of Sharvara · Triggers from Aruha destruction."
     },
     {
       "kind": "activate",
       "code": 41165831,
-      "note": "GY: SS itself"
+      "note": "summon: Unchained Soul of Shara"
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "note": "summon: Unchained Twins - Sarama"
     },
     {
       "kind": "spsummon",
       "code": 67680512,
-      "note": "Link 2"
+      "note": "materials: Unchained Soul of Shiyama, Unchained Soul Rage Abominator"
     },
     {
       "kind": "activate",
       "code": 31588572,
-      "note": "Pop Rage, set Escape back"
+      "note": "set: Escape of the Unchained · target: Unchained Soul of Rage"
     },
     {
       "kind": "activate",
       "code": 67680512,
-      "note": "Add Sharvara to hand"
+      "note": "add: Unchained Soul of Sharvara"
     },
     {
       "kind": "activate",
       "code": 41165831,
-      "note": "From hand: pop Sarama, SS itself"
+      "note": "target: Unchained Twins - Sarama · Pop Sarama from hand."
     },
     {
       "kind": "activate",
       "code": 31588572,
-      "note": "Destroyed: SS Level 4 (Shara)"
+      "note": "summon: Unchained Soul of Shma · Get a Level 4."
     },
     {
       "kind": "spsummon",
       "code": 94014327,
-      "note": "Link 4 to free zones"
+      "note": "materials: Unchained Soul of Sharvara · Link 4, frees zones."
+    },
+    {
+      "kind": "spsummon",
+      "code": 46772449,
+      "note": "materials: Unchained Soul of Shma, Unchained Soul of Shara · Fiendsmith bridge."
     },
     {
       "kind": "spsummon",
       "code": 2463794,
-      "note": "Link 1 using Exiton Knight"
+      "note": "materials: Evilswarm Exciton Knight"
     },
     {
       "kind": "activate",
       "code": 2463794,
-      "note": "Tribute: SS Fiendsmith's Lacrima"
+      "note": "summon: Fiendsmith's Lacrima"
     },
     {
       "kind": "activate",
       "code": 46640168,
-      "note": "Send Fiendsmith Engraver to GY"
+      "note": "send: Fiendsmith Engraver"
     },
     {
       "kind": "activate",
       "code": 2463794,
-      "note": "GY: equip to Lacrima"
+      "note": "target: Fiendsmith's Lacrima · Equip to Lacrima."
     },
     {
       "kind": "spsummon",
       "code": 93860227,
-      "note": "Using Lacrima + equipped Requiem"
+      "note": "materials: Fiendsmith's Lacrima, Fiendsmith's Requiem"
     },
     {
       "kind": "activate",
       "code": 60764609,
-      "note": "GY: shuffle Exiton Knight, SS itself"
+      "note": "return: Evilswarm Exciton Knight · Revive Engraver."
     },
     {
       "kind": "spsummon",
       "code": 49867899,
-      "note": "Link 2"
+      "note": "materials: Fiendsmith Engraver, Necroquip Princess"
     },
     {
       "kind": "activate",
       "code": 49867899,
-      "note": "Shuffle 3 LIGHT Fiends, Fusion Desirae"
+      "note": "return: Fiendsmith Engraver, Fiendsmith's Lacrima, Fiendsmith's Requiem · summon: Fiendsmith's Desirae"
     },
     {
       "kind": "activate",
       "code": 49867899,
-      "note": "Equip to Desirae"
+      "note": "target: Fiendsmith's Desirae · Equip to Desirae."
     },
     {
       "kind": "endphase",
       "code": 0,
-      "note": "Enma Lord Yama revives Rage + Rakea"
+      "note": "summon: Unchained Soul of Rage, Unchained Twins - Rakea"
     }
   ],
   "interrupts": [],
   "tags": [],
-  "notes": "Higher ceiling, less follow-up than pure (no Yama in GY, no Sharvara in hand). Exiton Knight is the Fiendsmith bridge; Level 4 Shara recurs easily. Skullmeister protects Yama from Ash/Ogre. Weak to Fuwalos.\n\nSteps not converted (card not found): spsummon Exiton Knight: Rank 4: two Level 4s",
+  "notes": "Higher ceiling, less follow-up than pure (no Yama in GY, no Sharvara in hand). Requires 2 Level 4s for Exciton Knight bridge.",
   "difficulty": "Expert",
   "format": "TCG",
   "archetypes": [
@@ -179,6 +183,7 @@
   "endBoard": [
     94014327,
     82135803,
+    49867899,
     67680512,
     53624265,
     53417695
