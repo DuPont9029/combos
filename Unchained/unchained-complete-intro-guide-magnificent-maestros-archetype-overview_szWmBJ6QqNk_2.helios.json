@@ -1,0 +1,187 @@
+{
+  "v": 3,
+  "name": "Prison into Shma (Fiendsmith)",
+  "first": true,
+  "hand": [
+    27412542
+  ],
+  "steps": [
+    {
+      "kind": "activate",
+      "code": 27412542,
+      "note": "Search Shma"
+    },
+    {
+      "kind": "summon",
+      "code": 88554436,
+      "note": "Normal Summon"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "SS Rakea and destroy it"
+    },
+    {
+      "kind": "activate",
+      "code": 53624265,
+      "note": "SS Shiyama"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "Destroy Shma"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "SS Sharvara"
+    },
+    {
+      "kind": "spsummon",
+      "code": 24269961,
+      "note": "Sharvara + Shiyama"
+    },
+    {
+      "kind": "activate",
+      "code": 24269961,
+      "note": "CL1: search Aruha"
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "note": "CL2: set Escape of the Unchained"
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "note": "Pop Escape, SS Aruha"
+    },
+    {
+      "kind": "activate",
+      "code": 53417695,
+      "note": "Float: SS Shara"
+    },
+    {
+      "kind": "spsummon",
+      "code": 21419436,
+      "note": "Link 3"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "GY: pop Aruha, SS itself"
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "note": "Destroyed: SS Sarama from deck"
+    },
+    {
+      "kind": "activate",
+      "code": 24269961,
+      "note": "GY: banish, SS Sharvara"
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "note": "GY: SS itself"
+    },
+    {
+      "kind": "spsummon",
+      "code": 67680512,
+      "note": "Link 2"
+    },
+    {
+      "kind": "activate",
+      "code": 31588572,
+      "note": "Pop Rage, set Escape back"
+    },
+    {
+      "kind": "activate",
+      "code": 67680512,
+      "note": "Add Sharvara to hand"
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "note": "From hand: pop Sarama, SS itself"
+    },
+    {
+      "kind": "activate",
+      "code": 31588572,
+      "note": "Destroyed: SS Level 4 (Shara)"
+    },
+    {
+      "kind": "spsummon",
+      "code": 94014327,
+      "note": "Link 4 to free zones"
+    },
+    {
+      "kind": "spsummon",
+      "code": 2463794,
+      "note": "Link 1 using Exiton Knight"
+    },
+    {
+      "kind": "activate",
+      "code": 2463794,
+      "note": "Tribute: SS Fiendsmith's Lacrima"
+    },
+    {
+      "kind": "activate",
+      "code": 46640168,
+      "note": "Send Fiendsmith Engraver to GY"
+    },
+    {
+      "kind": "activate",
+      "code": 2463794,
+      "note": "GY: equip to Lacrima"
+    },
+    {
+      "kind": "spsummon",
+      "code": 93860227,
+      "note": "Using Lacrima + equipped Requiem"
+    },
+    {
+      "kind": "activate",
+      "code": 60764609,
+      "note": "GY: shuffle Exiton Knight, SS itself"
+    },
+    {
+      "kind": "spsummon",
+      "code": 49867899,
+      "note": "Link 2"
+    },
+    {
+      "kind": "activate",
+      "code": 49867899,
+      "note": "Shuffle 3 LIGHT Fiends, Fusion Desirae"
+    },
+    {
+      "kind": "activate",
+      "code": 49867899,
+      "note": "Equip to Desirae"
+    },
+    {
+      "kind": "endphase",
+      "code": 0,
+      "note": "Enma Lord Yama revives Rage + Rakea"
+    }
+  ],
+  "interrupts": [],
+  "tags": [],
+  "notes": "Higher ceiling, less follow-up than pure (no Yama in GY, no Sharvara in hand). Exiton Knight is the Fiendsmith bridge; Level 4 Shara recurs easily. Skullmeister protects Yama from Ash/Ogre. Weak to Fuwalos.\n\nSteps not converted (card not found): spsummon Exiton Knight: Rank 4: two Level 4s",
+  "difficulty": "Expert",
+  "format": "TCG",
+  "archetypes": [
+    "Unchained",
+    "Fiendsmith"
+  ],
+  "endBoard": [
+    94014327,
+    82135803,
+    67680512,
+    53624265,
+    53417695
+  ],
+  "endHand": 0
+}

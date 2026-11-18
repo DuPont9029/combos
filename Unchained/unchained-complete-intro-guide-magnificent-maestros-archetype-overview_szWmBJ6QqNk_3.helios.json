@@ -1,0 +1,174 @@
+{
+  "v": 3,
+  "name": "Aruha + Trap into Shma",
+  "first": true,
+  "hand": [
+    26236560,
+    80801743
+  ],
+  "steps": [
+    {
+      "kind": "set",
+      "code": 80801743,
+      "note": "Set the trap"
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "note": "Pop the set trap, SS Aruha"
+    },
+    {
+      "kind": "activate",
+      "code": 80801743,
+      "note": "Float: SS Shiyama"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "Pop Aruha"
+    },
+    {
+      "kind": "activate",
+      "code": 26236560,
+      "note": "Destroyed: SS Sharvara"
+    },
+    {
+      "kind": "spsummon",
+      "code": 24269961,
+      "note": "Sharvara + Shiyama"
+    },
+    {
+      "kind": "activate",
+      "code": 24269961,
+      "note": "Search Shma"
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "note": "Set Escape of the Unchained"
+    },
+    {
+      "kind": "summon",
+      "code": 88554436,
+      "note": "Normal Summon"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "SS Rakea and destroy it"
+    },
+    {
+      "kind": "activate",
+      "code": 53624265,
+      "note": "Float into Shara"
+    },
+    {
+      "kind": "spsummon",
+      "code": 21419436,
+      "note": "Link 3"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "GY: pop Shma, SS itself"
+    },
+    {
+      "kind": "activate",
+      "code": 88554436,
+      "note": "Destroyed: SS Sarama (plus Yama/Shara triggers for bodies)"
+    },
+    {
+      "kind": "spsummon",
+      "code": 67680512,
+      "note": "Link 2"
+    },
+    {
+      "kind": "activate",
+      "code": 31588572,
+      "note": "Pop Rage, set back starting trap"
+    },
+    {
+      "kind": "activate",
+      "code": 67680512,
+      "note": "Add Sharvara to hand"
+    },
+    {
+      "kind": "activate",
+      "code": 41165831,
+      "note": "Pop Sarama, SS itself (skip in pure build)"
+    },
+    {
+      "kind": "activate",
+      "code": 31588572,
+      "note": "Float into Shma"
+    },
+    {
+      "kind": "spsummon",
+      "code": 94014327,
+      "note": "Link 4"
+    },
+    {
+      "kind": "spsummon",
+      "code": 2463794,
+      "note": "Using Exiton Knight"
+    },
+    {
+      "kind": "activate",
+      "code": 2463794,
+      "note": "SS Lacrima"
+    },
+    {
+      "kind": "activate",
+      "code": 46640168,
+      "note": "Send Engraver"
+    },
+    {
+      "kind": "activate",
+      "code": 2463794,
+      "note": "Equip to Lacrima"
+    },
+    {
+      "kind": "spsummon",
+      "code": 93860227,
+      "note": "Lacrima + Requiem"
+    },
+    {
+      "kind": "activate",
+      "code": 60764609,
+      "note": "Shuffle Exiton Knight, SS itself"
+    },
+    {
+      "kind": "spsummon",
+      "code": 49867899,
+      "note": "Link 2"
+    },
+    {
+      "kind": "activate",
+      "code": 49867899,
+      "note": "Shuffle 3 Fiends, Desirae; then equip"
+    },
+    {
+      "kind": "endphase",
+      "code": 0,
+      "note": "Rage + Rakea return"
+    }
+  ],
+  "interrupts": [],
+  "tags": [],
+  "notes": "Ends with two traps. Pure variant: keep Sharvara in hand, don't pop Sarama, just Link into Enma Lord Yama for End Phase revival. Any Unchained trap works as the starter pair.\n\nSteps not converted (card not found): spsummon Exiton Knight: Shma + Shara",
+  "difficulty": "Expert",
+  "format": "TCG",
+  "archetypes": [
+    "Unchained",
+    "Fiendsmith"
+  ],
+  "endBoard": [
+    94014327,
+    82135803,
+    67680512,
+    53624265,
+    53417695,
+    80801743
+  ],
+  "endHand": 0
+}
